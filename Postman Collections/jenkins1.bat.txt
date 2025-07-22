@@ -1,0 +1,1 @@
+newman run "C:\ProgramData\Jenkins\.jenkins\workspace\postman\Postman Collections\new2.postman_collection.json" -e "C:\ProgramData\Jenkins\.jenkins\workspace\postman\Postman Collections\QA.postman_environment.json"

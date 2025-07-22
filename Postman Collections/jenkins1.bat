@@ -1,0 +1,1 @@
+newman run "C:\JPL\Eclipse_Rest_assured\postman1\new2.postman_collection.json" -e "C:\JPL\Eclipse_Rest_assured\postman1\QA.postman_environment.json" --reporters=cli,htmlextra
